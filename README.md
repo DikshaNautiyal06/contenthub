@@ -28,7 +28,6 @@
 * View all posts or user-specific posts
 * Filter posts by category
 * Responsive black & red themed UI with Tailwind CSS
-* Light/dark mode
 
 ## Tech Stack
 
